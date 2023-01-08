@@ -9,14 +9,14 @@ namespace ConsoleApp5
     {
 
         // C# program to validate the
-        // International Phone Numbers using Regular
+        // Azerbaijan Phone Numbers using Regular
         // Expression
 
         public class GFG
         {
 
             // Function to validate the
-            // International Phone Numbers
+            // Azerbaijan Phone Numbers
             public static bool
               isValidPhoneNumber(string phonenumber)
             {
